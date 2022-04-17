@@ -1,0 +1,443 @@
+Wed Nov 17 2021 21:11:52 GMT+0530 (India Standard Time) - ValidationError: Users validation failed: name: name is required
+    at model.Document.invalidate (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/document.js:2906:32)
+    at /home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/document.js:2697:17
+    at /home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/schematype.js:1280:9
+    at processTicksAndRejections (node:internal/process/task_queues:76:11)
+Wed Nov 17 2021 21:13:41 GMT+0530 (India Standard Time) - ValidationError: Users validation failed: name: name is required
+    at model.Document.invalidate (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/document.js:2906:32)
+    at /home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/document.js:2697:17
+    at /home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/schematype.js:1280:9
+    at processTicksAndRejections (node:internal/process/task_queues:76:11)
+Wed Nov 17 2021 21:14:38 GMT+0530 (India Standard Time) - ValidationError: Users validation failed: name: name is required
+    at model.Document.invalidate (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/document.js:2906:32)
+    at /home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/document.js:2697:17
+    at /home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/schematype.js:1280:9
+    at processTicksAndRejections (node:internal/process/task_queues:76:11)
+Wed Nov 17 2021 21:15:12 GMT+0530 (India Standard Time) - ValidationError: Users validation failed: name: name is required
+    at model.Document.invalidate (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/document.js:2906:32)
+    at /home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/document.js:2697:17
+    at /home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/schematype.js:1280:9
+    at processTicksAndRejections (node:internal/process/task_queues:76:11)
+Wed Nov 17 2021 21:15:23 GMT+0530 (India Standard Time) - ValidationError: Users validation failed: name: name is required
+    at model.Document.invalidate (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/document.js:2906:32)
+    at /home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/document.js:2697:17
+    at /home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/schematype.js:1280:9
+    at processTicksAndRejections (node:internal/process/task_queues:76:11)
+Wed Nov 17 2021 21:16:17 GMT+0530 (India Standard Time) - ValidationError: Users validation failed: name: name is required
+    at model.Document.invalidate (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/document.js:2906:32)
+    at /home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/document.js:2697:17
+    at /home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/schematype.js:1280:9
+    at processTicksAndRejections (node:internal/process/task_queues:76:11)
+Wed Nov 17 2021 21:16:28 GMT+0530 (India Standard Time) - ValidationError: Users validation failed: name: name is required
+    at model.Document.invalidate (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/document.js:2906:32)
+    at /home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/document.js:2697:17
+    at /home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/schematype.js:1280:9
+    at processTicksAndRejections (node:internal/process/task_queues:76:11)
+Wed Nov 17 2021 21:16:50 GMT+0530 (India Standard Time) - ValidationError: Users validation failed: name: name is required
+    at model.Document.invalidate (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/document.js:2906:32)
+    at /home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/document.js:2697:17
+    at /home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/schematype.js:1280:9
+    at processTicksAndRejections (node:internal/process/task_queues:76:11)
+Wed Nov 17 2021 21:17:58 GMT+0530 (India Standard Time) - ValidationError: Users validation failed: name: name is required
+    at model.Document.invalidate (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/document.js:2906:32)
+    at /home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/document.js:2697:17
+    at /home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/schematype.js:1280:9
+    at processTicksAndRejections (node:internal/process/task_queues:76:11)
+Wed Nov 17 2021 21:18:12 GMT+0530 (India Standard Time) - ValidationError: Users validation failed: name: name is required
+    at model.Document.invalidate (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/document.js:2906:32)
+    at /home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/document.js:2697:17
+    at /home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/schematype.js:1280:9
+    at processTicksAndRejections (node:internal/process/task_queues:76:11)
+Wed Nov 17 2021 21:18:29 GMT+0530 (India Standard Time) - ValidationError: Users validation failed: name: Path `name` is required.
+    at model.Document.invalidate (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/document.js:2906:32)
+    at /home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/document.js:2697:17
+    at /home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/schematype.js:1280:9
+    at processTicksAndRejections (node:internal/process/task_queues:76:11)
+Wed Nov 17 2021 21:18:44 GMT+0530 (India Standard Time) - ValidationError: Users validation failed: name: name is required
+    at model.Document.invalidate (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/document.js:2906:32)
+    at /home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/document.js:2697:17
+    at /home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/schematype.js:1280:9
+    at processTicksAndRejections (node:internal/process/task_queues:76:11)
+Wed Nov 17 2021 21:18:54 GMT+0530 (India Standard Time) - ValidationError: Users validation failed: pinCode: Path `pinCode` is required., phoneNumber: Path `phoneNumber` is required., name: name is required
+    at model.Document.invalidate (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/document.js:2906:32)
+    at /home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/document.js:2697:17
+    at /home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/schematype.js:1280:9
+    at processTicksAndRejections (node:internal/process/task_queues:76:11)
+Wed Nov 17 2021 21:20:21 GMT+0530 (India Standard Time) - ValidationError: Users validation failed: pinCode: Path `pinCode` is required., phoneNumber: Path `phoneNumber` is required., name: name is required
+    at model.Document.invalidate (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/document.js:2906:32)
+    at /home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/document.js:2697:17
+    at /home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/schematype.js:1280:9
+    at processTicksAndRejections (node:internal/process/task_queues:76:11)
+Wed Nov 17 2021 21:20:26 GMT+0530 (India Standard Time) - ValidationError: Users validation failed: pinCode: Path `pinCode` is required., phoneNumber: Path `phoneNumber` is required., name: name is required
+    at model.Document.invalidate (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/document.js:2906:32)
+    at /home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/document.js:2697:17
+    at /home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/schematype.js:1280:9
+    at processTicksAndRejections (node:internal/process/task_queues:76:11)
+Wed Nov 17 2021 21:32:22 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'length' of undefined
+    at Object.user.selfAssessment (/home/nileshkk9/Desktop/udaan/covidtracker/src/services/user.js:10:18)
+    at /home/nileshkk9/Desktop/udaan/covidtracker/src/routes/user.js:16:50
+    at Layer.handle [as handle_request] (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/express/lib/router/layer.js:95:5)
+    at /home/nileshkk9/Desktop/udaan/covidtracker/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/express/lib/router/index.js:174:3)
+Wed Nov 17 2021 21:32:59 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'length' of undefined
+    at Object.user.selfAssessment (/home/nileshkk9/Desktop/udaan/covidtracker/src/services/user.js:11:18)
+    at /home/nileshkk9/Desktop/udaan/covidtracker/src/routes/user.js:16:50
+    at Layer.handle [as handle_request] (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/express/lib/router/layer.js:95:5)
+    at /home/nileshkk9/Desktop/udaan/covidtracker/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/express/lib/router/index.js:174:3)
+Wed Nov 17 2021 21:33:23 GMT+0530 (India Standard Time) - ReferenceError: symbtoms is not defined
+    at Object.user.selfAssessment (/home/nileshkk9/Desktop/udaan/covidtracker/src/services/user.js:11:5)
+    at /home/nileshkk9/Desktop/udaan/covidtracker/src/routes/user.js:16:50
+    at Layer.handle [as handle_request] (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/express/lib/router/layer.js:95:5)
+    at /home/nileshkk9/Desktop/udaan/covidtracker/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/express/lib/router/index.js:174:3)
+Wed Nov 17 2021 21:33:48 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'length' of undefined
+    at Object.user.selfAssessment (/home/nileshkk9/Desktop/udaan/covidtracker/src/services/user.js:11:18)
+    at /home/nileshkk9/Desktop/udaan/covidtracker/src/routes/user.js:16:50
+    at Layer.handle [as handle_request] (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/express/lib/router/layer.js:95:5)
+    at /home/nileshkk9/Desktop/udaan/covidtracker/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/express/lib/router/index.js:174:3)
+Wed Nov 17 2021 21:51:01 GMT+0530 (India Standard Time) - CastError: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "Users"
+    at model.Query.exec (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/query.js:4545:21)
+    at model.Query.Query.then (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongoose/lib/query.js:4644:15)
+    at processTicksAndRejections (node:internal/process/task_queues:94:5)
+Wed Nov 17 2021 22:02:15 GMT+0530 (India Standard Time) - TypeError: res.send is not a function
+    at /home/nileshkk9/Desktop/udaan/covidtracker/src/routes/user.js:37:13
+    at processTicksAndRejections (node:internal/process/task_queues:94:5)
+Wed Nov 17 2021 22:16:56 GMT+0530 (India Standard Time) - MongoServerError: E11000 duplicate key error collection: covidTrackerDB.users index: phoneNumber_1 dup key: { phoneNumber: "8444865679" }
+    at /home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongodb/lib/operations/insert.js:51:33
+    at /home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongodb/lib/cmap/connection_pool.js:272:25
+    at handleOperationResult (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongodb/lib/sdam/server.js:363:9)
+    at MessageStream.messageHandler (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongodb/lib/cmap/connection.js:479:9)
+    at MessageStream.emit (node:events:369:20)
+    at processIncomingData (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongodb/lib/cmap/message_stream.js:108:16)
+    at MessageStream._write (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongodb/lib/cmap/message_stream.js:28:9)
+    at writeOrBuffer (node:internal/streams/writable:395:12)
+    at MessageStream.Writable.write (node:internal/streams/writable:340:10)
+    at Socket.ondata (node:internal/streams/readable:750:22)
+Wed Nov 17 2021 22:17:54 GMT+0530 (India Standard Time) - MongoServerError: E11000 duplicate key error collection: covidTrackerDB.users index: phoneNumber_1 dup key: { phoneNumber: "9330518513" }
+    at /home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongodb/lib/operations/insert.js:51:33
+    at /home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongodb/lib/cmap/connection_pool.js:272:25
+    at handleOperationResult (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongodb/lib/sdam/server.js:363:9)
+    at MessageStream.messageHandler (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongodb/lib/cmap/connection.js:479:9)
+    at MessageStream.emit (node:events:369:20)
+    at processIncomingData (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongodb/lib/cmap/message_stream.js:108:16)
+    at MessageStream._write (/home/nileshkk9/Desktop/udaan/covidtracker/node_modules/mongodb/lib/cmap/message_stream.js:28:9)
+    at writeOrBuffer (node:internal/streams/writable:395:12)
+    at MessageStream.Writable.write (node:internal/streams/writable:340:10)
+    at Socket.ondata (node:internal/streams/readable:750:22)
+Wed Nov 17 2021 22:22:59 GMT+0530 (India Standard Time) - Error: User doesnot exits
+    at Object.user.selfAssessment (/home/nileshkk9/Desktop/udaan/covidtracker/src/services/user.js:11:23)
+    at processTicksAndRejections (node:internal/process/task_queues:94:5)
+    at async /home/nileshkk9/Desktop/udaan/covidtracker/src/routes/user.js:16:32
+Wed Nov 17 2021 22:26:12 GMT+0530 (India Standard Time) - ReferenceError: updatedData is not defined
+    at Object.user.updateTestResult (/home/nileshkk9/Desktop/udaan/covidtracker/src/services/user.js:41:5)
+    at processTicksAndRejections (node:internal/process/task_queues:94:5)
+    at async /home/nileshkk9/Desktop/udaan/covidtracker/src/routes/user.js:26:29
+Wed Apr 13 2022 21:21:38 GMT+0530 (India Standard Time) - ValidationError: Users validation failed: pinCode: Path `pinCode` is required., phoneNumber: Path `phoneNumber` is required., name: name is required
+    at model.Document.invalidate (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main\covidTrackerAPI_UDAAN-main\node_modules\mongoose\lib\document.js:2906:32)
+    at C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main\covidTrackerAPI_UDAAN-main\node_modules\mongoose\lib\document.js:2697:17
+    at C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main\covidTrackerAPI_UDAAN-main\node_modules\mongoose\lib\schematype.js:1280:9
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+Wed Apr 13 2022 21:22:05 GMT+0530 (India Standard Time) - ValidationError: Users validation failed: pinCode: Path `pinCode` is required., phoneNumber: Path `phoneNumber` is required., name: name is required
+    at model.Document.invalidate (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main\covidTrackerAPI_UDAAN-main\node_modules\mongoose\lib\document.js:2906:32)
+    at C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main\covidTrackerAPI_UDAAN-main\node_modules\mongoose\lib\document.js:2697:17
+    at C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main\covidTrackerAPI_UDAAN-main\node_modules\mongoose\lib\schematype.js:1280:9
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+Wed Apr 13 2022 21:22:33 GMT+0530 (India Standard Time) - ValidationError: Users validation failed: pinCode: Path `pinCode` is required., phoneNumber: Path `phoneNumber` is required., name: name is required
+    at model.Document.invalidate (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main\covidTrackerAPI_UDAAN-main\node_modules\mongoose\lib\document.js:2906:32)
+    at C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main\covidTrackerAPI_UDAAN-main\node_modules\mongoose\lib\document.js:2697:17
+    at C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main\covidTrackerAPI_UDAAN-main\node_modules\mongoose\lib\schematype.js:1280:9
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+Wed Apr 13 2022 21:28:41 GMT+0530 (India Standard Time) - SyntaxError: Unexpected token n in JSON at position 7
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main\covidTrackerAPI_UDAAN-main\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main\covidTrackerAPI_UDAAN-main\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main\covidTrackerAPI_UDAAN-main\node_modules\raw-body\index.js:224:16)
+    at done (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main\covidTrackerAPI_UDAAN-main\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main\covidTrackerAPI_UDAAN-main\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (node:events:538:35)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Wed Apr 13 2022 23:19:15 GMT+0530 (India Standard Time) - Error: User does not exits
+    at Object.user.selfAssessment (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main\covidTrackerAPI_UDAAN-main\src\services\user.js:11:23)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main\covidTrackerAPI_UDAAN-main\src\routes\user.js:15:32
+Wed Apr 13 2022 23:19:19 GMT+0530 (India Standard Time) - Error: User does not exits
+    at Object.user.selfAssessment (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main\covidTrackerAPI_UDAAN-main\src\services\user.js:11:23)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main\covidTrackerAPI_UDAAN-main\src\routes\user.js:15:32
+Thu Apr 14 2022 14:12:31 GMT+0530 (India Standard Time) - MongoServerError: E11000 duplicate key error collection: covidTrackerDB.users index: phoneNumber_1 dup key: { phoneNumber: null }
+    at C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\mongodb\lib\operations\insert.js:51:33
+    at C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\mongodb\lib\cmap\connection_pool.js:272:25
+    at handleOperationResult (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\mongodb\lib\sdam\server.js:363:9)
+    at MessageStream.messageHandler (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\mongodb\lib\cmap\connection.js:479:9)
+    at MessageStream.emit (node:events:526:28)
+    at processIncomingData (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\mongodb\lib\cmap\message_stream.js:108:16)
+    at MessageStream._write (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\mongodb\lib\cmap\message_stream.js:28:9)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at MessageStream.Writable.write (node:internal/streams/writable:334:10)
+Thu Apr 14 2022 14:12:55 GMT+0530 (India Standard Time) - MongoServerError: E11000 duplicate key error collection: covidTrackerDB.users index: phoneNumber_1 dup key: { phoneNumber: null }
+    at C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\mongodb\lib\operations\insert.js:51:33
+    at C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\mongodb\lib\cmap\connection_pool.js:272:25
+    at handleOperationResult (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\mongodb\lib\sdam\server.js:363:9)
+    at MessageStream.messageHandler (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\mongodb\lib\cmap\connection.js:479:9)
+    at MessageStream.emit (node:events:526:28)
+    at processIncomingData (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\mongodb\lib\cmap\message_stream.js:108:16)
+    at MessageStream._write (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\mongodb\lib\cmap\message_stream.js:28:9)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at MessageStream.Writable.write (node:internal/streams/writable:334:10)
+Thu Apr 14 2022 14:13:45 GMT+0530 (India Standard Time) - MongoServerError: E11000 duplicate key error collection: covidTrackerDB.users index: phoneNumber_1 dup key: { phoneNumber: null }
+    at C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\mongodb\lib\operations\insert.js:51:33
+    at C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\mongodb\lib\cmap\connection_pool.js:272:25
+    at handleOperationResult (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\mongodb\lib\sdam\server.js:363:9)
+    at MessageStream.messageHandler (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\mongodb\lib\cmap\connection.js:479:9)
+    at MessageStream.emit (node:events:526:28)
+    at processIncomingData (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\mongodb\lib\cmap\message_stream.js:108:16)
+    at MessageStream._write (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\mongodb\lib\cmap\message_stream.js:28:9)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at MessageStream.Writable.write (node:internal/streams/writable:334:10)
+Thu Apr 14 2022 14:40:48 GMT+0530 (India Standard Time) - CastError: Cast to ObjectId failed for value "{ id: { id: '6257e3085876598686c5f84546cd4ad' } }" (type Object) at path "_id" for model "Users"
+    at model.Query.exec (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\mongoose\lib\query.js:4545:21)
+    at model.Query.Query.then (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\mongoose\lib\query.js:4644:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Thu Apr 14 2022 14:40:59 GMT+0530 (India Standard Time) - CastError: Cast to ObjectId failed for value "{ id: { id: '6257e308585655f84546cd4ad' } }" (type Object) at path "_id" for model "Users"
+    at model.Query.exec (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\mongoose\lib\query.js:4545:21)
+    at model.Query.Query.then (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\mongoose\lib\query.js:4644:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Thu Apr 14 2022 14:41:24 GMT+0530 (India Standard Time) - CastError: Cast to ObjectId failed for value "{ id: { id: '6257e308585655f84546cd4ad' } }" (type Object) at path "_id" for model "Users"
+    at model.Query.exec (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\mongoose\lib\query.js:4545:21)
+    at model.Query.Query.then (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\mongoose\lib\query.js:4644:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Thu Apr 14 2022 14:41:25 GMT+0530 (India Standard Time) - CastError: Cast to ObjectId failed for value "{ id: { id: '6257e308585655f84546cd4ad' } }" (type Object) at path "_id" for model "Users"
+    at model.Query.exec (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\mongoose\lib\query.js:4545:21)
+    at model.Query.Query.then (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\mongoose\lib\query.js:4644:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Thu Apr 14 2022 14:42:58 GMT+0530 (India Standard Time) - SyntaxError: Unexpected token / in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\body-parser\lib\types\json.js:158:10)
+    at parse (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\body-parser\lib\types\json.js:83:15)
+    at C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\raw-body\index.js:224:16)
+    at done (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (node:events:538:35)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Thu Apr 14 2022 14:43:30 GMT+0530 (India Standard Time) - CastError: Cast to ObjectId failed for value "{ id: { id: '6257e57c251e75477e33fd88' } }" (type Object) at path "_id" for model "Users"
+    at model.Query.exec (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\mongoose\lib\query.js:4545:21)
+    at model.Query.Query.then (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\mongoose\lib\query.js:4644:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Thu Apr 14 2022 14:44:20 GMT+0530 (India Standard Time) - CastError: Cast to ObjectId failed for value "{ id: { id: '6257e57c251e75477e33fd88' } }" (type Object) at path "_id" for model "Users"
+    at model.Query.exec (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\mongoose\lib\query.js:4545:21)
+    at model.Query.Query.then (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\mongoose\lib\query.js:4644:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Thu Apr 14 2022 14:45:40 GMT+0530 (India Standard Time) - SyntaxError: Unexpected number in JSON at position 8
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\raw-body\index.js:224:16)
+    at done (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (node:events:538:35)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Thu Apr 14 2022 14:46:12 GMT+0530 (India Standard Time) - Error: Deal Doesnot exist
+    at Object.deal.endDeal (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\src\services\user.js:15:20)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\src\routes\user.js:16:25
+Thu Apr 14 2022 15:13:37 GMT+0530 (India Standard Time) - TypeError: Assignment to constant variable.
+    at Object.deal.createDeal (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\src\services\user.js:6:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\src\routes\user.js:7:28
+Thu Apr 14 2022 15:13:49 GMT+0530 (India Standard Time) - TypeError: Assignment to constant variable.
+    at Object.deal.createDeal (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\src\services\user.js:6:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\src\routes\user.js:7:28
+Thu Apr 14 2022 15:16:36 GMT+0530 (India Standard Time) - ReferenceError: updatedDeal is not defined
+    at Object.deal.createDeal (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\src\services\user.js:7:5)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\src\routes\user.js:7:28
+Thu Apr 14 2022 16:41:03 GMT+0530 (India Standard Time) - SyntaxError: Unexpected token ; in JSON at position 89
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\raw-body\index.js:224:16)
+    at done (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (node:events:538:35)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Thu Apr 14 2022 16:41:08 GMT+0530 (India Standard Time) - ReferenceError: dealId is not defined
+    at Object.deal.updateDeal (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\src\services\user.js:24:43)
+    at C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\src\routes\user.js:25:44
+    at Layer.handle [as handle_request] (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\index.js:174:3)
+Thu Apr 14 2022 16:41:15 GMT+0530 (India Standard Time) - ReferenceError: dealId is not defined
+    at Object.deal.updateDeal (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\src\services\user.js:24:43)
+    at C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\src\routes\user.js:25:44
+    at Layer.handle [as handle_request] (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\index.js:174:3)
+Thu Apr 14 2022 16:41:17 GMT+0530 (India Standard Time) - ReferenceError: dealId is not defined
+    at Object.deal.updateDeal (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\src\services\user.js:24:43)
+    at C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\src\routes\user.js:25:44
+    at Layer.handle [as handle_request] (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\index.js:174:3)
+Thu Apr 14 2022 16:41:45 GMT+0530 (India Standard Time) - ReferenceError: dealId is not defined
+    at Object.deal.updateDeal (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\src\services\user.js:24:43)
+    at C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\src\routes\user.js:25:44
+    at Layer.handle [as handle_request] (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\index.js:174:3)
+Thu Apr 14 2022 16:42:09 GMT+0530 (India Standard Time) - ReferenceError: dealId is not defined
+    at Object.deal.updateDeal (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\src\services\user.js:24:43)
+    at C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\src\routes\user.js:25:44
+    at Layer.handle [as handle_request] (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\index.js:174:3)
+Thu Apr 14 2022 16:42:36 GMT+0530 (India Standard Time) - ReferenceError: dealId is not defined
+    at Object.deal.updateDeal (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\src\services\user.js:24:43)
+    at C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\src\routes\user.js:25:44
+    at Layer.handle [as handle_request] (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\express\lib\router\index.js:174:3)
+Thu Apr 14 2022 17:07:18 GMT+0530 (India Standard Time) - ValidationError: UsersBuy validation failed: name: Path `name` is required.
+    at model.Document.invalidate (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\mongoose\lib\document.js:2906:32)
+    at C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\mongoose\lib\document.js:2697:17
+    at C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\mongoose\lib\schematype.js:1280:9
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+Thu Apr 14 2022 17:07:34 GMT+0530 (India Standard Time) - SyntaxError: Unexpected token m in JSON at position 14
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\raw-body\index.js:224:16)
+    at done (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (node:events:538:35)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Thu Apr 14 2022 17:07:36 GMT+0530 (India Standard Time) - SyntaxError: Unexpected token m in JSON at position 14
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\raw-body\index.js:224:16)
+    at done (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (node:events:538:35)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Thu Apr 14 2022 17:20:02 GMT+0530 (India Standard Time) - SyntaxError: Unexpected token m in JSON at position 14
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\raw-body\index.js:224:16)
+    at done (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (node:events:538:35)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+Thu Apr 14 2022 17:27:39 GMT+0530 (India Standard Time) - Error: Only 1 item allowed per user
+    at Object.deal.userBuy (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\src\services\user.js:45:14)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\src\routes\user.js:35:20
+Thu Apr 14 2022 17:29:53 GMT+0530 (India Standard Time) - Error: Only 1 item allowed per user
+    at Object.deal.userBuy (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\src\services\user.js:45:14)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\src\routes\user.js:35:20
+Thu Apr 14 2022 17:29:56 GMT+0530 (India Standard Time) - Error: Only 1 item allowed per user
+    at Object.deal.userBuy (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\src\services\user.js:45:14)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\src\routes\user.js:35:20
+Thu Apr 14 2022 17:30:00 GMT+0530 (India Standard Time) - CastError: Cast to ObjectId failed for value "{ _id: { itemId: '6257eb6b40cff5186bd60033' } }" (type Object) at path "_id" for model "Users"
+    at model.Query.exec (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\mongoose\lib\query.js:4545:21)
+    at model.Query.Query.then (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\mongoose\lib\query.js:4644:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Thu Apr 14 2022 17:30:17 GMT+0530 (India Standard Time) - CastError: Cast to ObjectId failed for value "{ _id: undefined }" (type Object) at path "_id" for model "Users"
+    at model.Query.exec (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\mongoose\lib\query.js:4545:21)
+    at model.Query.Query.then (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\mongoose\lib\query.js:4644:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Thu Apr 14 2022 17:34:42 GMT+0530 (India Standard Time) - Error: Only 1 item allowed per user
+    at Object.deal.userBuy (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\src\services\user.js:45:14)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\src\routes\user.js:35:20
+Thu Apr 14 2022 17:34:47 GMT+0530 (India Standard Time) - MongoServerError: FieldPath field names may not start with '$'. Consider using $getField or $setField.
+    at MessageStream.messageHandler (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\mongodb\lib\cmap\connection.js:467:30)
+    at MessageStream.emit (node:events:526:28)
+    at processIncomingData (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\mongodb\lib\cmap\message_stream.js:108:16)
+    at MessageStream._write (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\node_modules\mongodb\lib\cmap\message_stream.js:28:9)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at MessageStream.Writable.write (node:internal/streams/writable:334:10)
+    at Socket.ondata (node:internal/streams/readable:754:22)
+    at Socket.emit (node:events:526:28)
+    at addChunk (node:internal/streams/readable:315:12)
+Thu Apr 14 2022 17:35:52 GMT+0530 (India Standard Time) - Error: All items sold
+    at Object.deal.userBuy (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\src\services\user.js:51:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\src\routes\user.js:35:20
+Thu Apr 14 2022 17:39:00 GMT+0530 (India Standard Time) - Error: Only 1 item allowed per user
+    at Object.deal.userBuy (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\src\services\user.js:45:14)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\src\routes\user.js:35:20
+Thu Apr 14 2022 17:39:06 GMT+0530 (India Standard Time) - Error: Deal Ended
+    at Object.deal.userBuy (C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\src\services\user.js:55:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\MUSKAN\Downloads\covidTrackerAPI_UDAAN-main - Copy\covidTrackerAPI_UDAAN-main\src\routes\user.js:35:20
